@@ -1,0 +1,18 @@
+{
+    "gitbook": "3.x",
+    "title": "The Way to Go",
+    "links": {
+        "sidebar": {
+            "The Way to Go": "https://gitbook.dryyun.com/the-way-to-go/"
+        }
+    },
+    "description": "《The Way to Go》中文版",
+    "language": "zh-hans",
+    "plugins": [
+        "katex",
+        "-sharing",
+        "-search",
+        "search-pro",
+        "-lunr"
+    ]
+}

@@ -29,3 +29,6 @@ the-way-to-go.sublime-workspace
 
 *.html
 *.htm
+
+node_modules
+_book
